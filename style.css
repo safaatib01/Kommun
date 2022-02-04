@@ -42,9 +42,13 @@ nav {
   border: none;
   border-width: 30;
   margin: 32;
-  padding: 30px 10px;
+  padding: 30px 20px ;
  
 }
+#nav li {
+    display: none;
+    [COLOR="Red"]padding-right: 80px;[/COLOR]
+  }
 #link { color: #ffffff; } /* CSS link color */
 
 .topnav input[type=text] {
@@ -57,7 +61,7 @@ nav {
 	color: rgb(216, 156, 156);
 	margin: 0px;
 	padding: 0px;
-    text-align: ;
+    text-align: 
 }
 
 #wrapper {
